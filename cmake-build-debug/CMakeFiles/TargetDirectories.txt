@@ -1,0 +1,3 @@
+C:/Users/s063337/Desktop/CLionProjects/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/Mokiniu_Pazymiu_Sistema.dir
+C:/Users/s063337/Desktop/CLionProjects/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s063337/Desktop/CLionProjects/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
