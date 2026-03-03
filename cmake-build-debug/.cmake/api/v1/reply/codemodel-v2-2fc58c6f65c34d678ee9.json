@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Mokiniu_Pazymiu_Sistema::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Mokiniu_Pazymiu_Sistema-Debug-ccf2513d22361b570146.json",
+					"jsonFile" : "target-Mokiniu_Pazymiu_Sistema-Debug-07744b5b57e9ce296723.json",
 					"name" : "Mokiniu_Pazymiu_Sistema",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/s063337/Desktop/CLionProjects/Mokiniu-Pazymiu-Sistema/cmake-build-debug",
-		"source" : "C:/Users/s063337/Desktop/CLionProjects/Mokiniu-Pazymiu-Sistema"
+		"build" : "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug",
+		"source" : "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }
