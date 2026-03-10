@@ -73,7 +73,26 @@ int main() {
                     }
                         break;
                 }
-
+                case 3: {
+                    string studentNameInput;
+                    cout << "Iveskite mokinio varda";
+                    cin >> studentNameInput;
+                    for (int i = 0; i < STUDENTS_LIMIT; i++) {
+                        if (studentNames[i] == studentNameInput ) {
+                            string studentName =studentNames[i];
+                            cout << setw(15) << "Vardas: " << setw(15) << "Pazymiai: " << endl;
+                            cout << setw(15) << studentName << setw(15);
+                            for (int j = 0; j < GRADES_LIMIT; j++) {
+                                cout << studentGrades[i][j] << " ";
+                            }
+                            cout << "\n";
+                        }
+                    }
+                    int gradeIndexInput;
+                    cout << "Iveskite eiles numeri pazymio kuri norite pakeisti:"<< "\n";
+                    cin >> gradeIndexInput;
+                    cout << "P";
+                }
             default:
                 break;
         }
