@@ -36,12 +36,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
       - "/REGISTRY-NOTFOUND/bin/"
@@ -62,12 +62,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -105,12 +105,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -130,12 +130,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -174,12 +174,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -233,12 +233,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -255,12 +255,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -292,12 +292,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -314,12 +314,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -351,12 +351,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -373,12 +373,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -410,12 +410,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -432,12 +432,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -469,12 +469,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -491,12 +491,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -528,12 +528,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -550,12 +550,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -587,12 +587,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -609,12 +609,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -646,12 +646,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -668,12 +668,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -705,12 +705,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -727,12 +727,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -764,12 +764,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -786,12 +786,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -823,12 +823,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -859,9 +859,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/tapi.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/tapi.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/tapi"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi"
       - "C:/Program Files/Microsoft VS Code/bin/tapi.com"
       - "C:/Program Files/Microsoft VS Code/bin/tapi.exe"
       - "C:/Program Files/Microsoft VS Code/bin/tapi"
@@ -871,12 +868,15 @@ events:
       - "C:/Program Files/Go/bin/tapi.com"
       - "C:/Program Files/Go/bin/tapi.exe"
       - "C:/Program Files/Go/bin/tapi"
-      - "C:/Program Files/dotnet/tapi.com"
-      - "C:/Program Files/dotnet/tapi.exe"
-      - "C:/Program Files/dotnet/tapi"
       - "C:/Program Files/Git/cmd/tapi.com"
       - "C:/Program Files/Git/cmd/tapi.exe"
       - "C:/Program Files/Git/cmd/tapi"
+      - "C:/Program Files/dotnet/tapi.com"
+      - "C:/Program Files/dotnet/tapi.exe"
+      - "C:/Program Files/dotnet/tapi"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/tapi.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/tapi.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/tapi"
@@ -895,12 +895,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -935,12 +935,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -971,9 +971,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.1.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.1.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.1"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.1.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.1.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.1"
@@ -983,12 +980,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ar-13.1.com"
       - "C:/Program Files/Go/bin/gcc-ar-13.1.exe"
       - "C:/Program Files/Go/bin/gcc-ar-13.1"
-      - "C:/Program Files/dotnet/gcc-ar-13.1.com"
-      - "C:/Program Files/dotnet/gcc-ar-13.1.exe"
-      - "C:/Program Files/dotnet/gcc-ar-13.1"
       - "C:/Program Files/Git/cmd/gcc-ar-13.1.com"
       - "C:/Program Files/Git/cmd/gcc-ar-13.1.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-13.1"
+      - "C:/Program Files/dotnet/gcc-ar-13.1.com"
+      - "C:/Program Files/dotnet/gcc-ar-13.1.exe"
+      - "C:/Program Files/dotnet/gcc-ar-13.1"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.1.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.1.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.1"
@@ -1022,9 +1022,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13"
@@ -1034,12 +1031,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ar-13.com"
       - "C:/Program Files/Go/bin/gcc-ar-13.exe"
       - "C:/Program Files/Go/bin/gcc-ar-13"
-      - "C:/Program Files/dotnet/gcc-ar-13.com"
-      - "C:/Program Files/dotnet/gcc-ar-13.exe"
-      - "C:/Program Files/dotnet/gcc-ar-13"
       - "C:/Program Files/Git/cmd/gcc-ar-13.com"
       - "C:/Program Files/Git/cmd/gcc-ar-13.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-13"
+      - "C:/Program Files/dotnet/gcc-ar-13.com"
+      - "C:/Program Files/dotnet/gcc-ar-13.exe"
+      - "C:/Program Files/dotnet/gcc-ar-13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13"
@@ -1073,9 +1073,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar13"
@@ -1085,12 +1082,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ar13.com"
       - "C:/Program Files/Go/bin/gcc-ar13.exe"
       - "C:/Program Files/Go/bin/gcc-ar13"
-      - "C:/Program Files/dotnet/gcc-ar13.com"
-      - "C:/Program Files/dotnet/gcc-ar13.exe"
-      - "C:/Program Files/dotnet/gcc-ar13"
       - "C:/Program Files/Git/cmd/gcc-ar13.com"
       - "C:/Program Files/Git/cmd/gcc-ar13.exe"
       - "C:/Program Files/Git/cmd/gcc-ar13"
+      - "C:/Program Files/dotnet/gcc-ar13.com"
+      - "C:/Program Files/dotnet/gcc-ar13.exe"
+      - "C:/Program Files/dotnet/gcc-ar13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar13"
@@ -1110,12 +1110,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -1150,12 +1150,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -1186,9 +1186,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.1.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.1"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.1.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.1"
@@ -1198,12 +1195,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ranlib-13.1.com"
       - "C:/Program Files/Go/bin/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Go/bin/gcc-ranlib-13.1"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.1.com"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.1.exe"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.1"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.1.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.1"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.1.com"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.1.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.1"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.1.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.1.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.1"
@@ -1237,9 +1237,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13"
@@ -1249,12 +1246,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ranlib-13.com"
       - "C:/Program Files/Go/bin/gcc-ranlib-13.exe"
       - "C:/Program Files/Go/bin/gcc-ranlib-13"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.com"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.exe"
-      - "C:/Program Files/dotnet/gcc-ranlib-13"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.com"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib-13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13"
@@ -1288,9 +1288,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib13"
@@ -1300,12 +1297,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ranlib13.com"
       - "C:/Program Files/Go/bin/gcc-ranlib13.exe"
       - "C:/Program Files/Go/bin/gcc-ranlib13"
-      - "C:/Program Files/dotnet/gcc-ranlib13.com"
-      - "C:/Program Files/dotnet/gcc-ranlib13.exe"
-      - "C:/Program Files/dotnet/gcc-ranlib13"
       - "C:/Program Files/Git/cmd/gcc-ranlib13.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib13.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib13"
+      - "C:/Program Files/dotnet/gcc-ranlib13.com"
+      - "C:/Program Files/dotnet/gcc-ranlib13.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib13"
@@ -1325,12 +1325,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -1376,12 +1376,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -1420,12 +1420,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -1482,12 +1482,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -1518,9 +1518,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.1.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.1.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.1"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.1.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.1.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.1"
@@ -1530,12 +1527,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ar-13.1.com"
       - "C:/Program Files/Go/bin/gcc-ar-13.1.exe"
       - "C:/Program Files/Go/bin/gcc-ar-13.1"
-      - "C:/Program Files/dotnet/gcc-ar-13.1.com"
-      - "C:/Program Files/dotnet/gcc-ar-13.1.exe"
-      - "C:/Program Files/dotnet/gcc-ar-13.1"
       - "C:/Program Files/Git/cmd/gcc-ar-13.1.com"
       - "C:/Program Files/Git/cmd/gcc-ar-13.1.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-13.1"
+      - "C:/Program Files/dotnet/gcc-ar-13.1.com"
+      - "C:/Program Files/dotnet/gcc-ar-13.1.exe"
+      - "C:/Program Files/dotnet/gcc-ar-13.1"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.1"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.1.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.1.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.1"
@@ -1569,9 +1569,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar-13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar-13"
@@ -1581,12 +1578,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ar-13.com"
       - "C:/Program Files/Go/bin/gcc-ar-13.exe"
       - "C:/Program Files/Go/bin/gcc-ar-13"
-      - "C:/Program Files/dotnet/gcc-ar-13.com"
-      - "C:/Program Files/dotnet/gcc-ar-13.exe"
-      - "C:/Program Files/dotnet/gcc-ar-13"
       - "C:/Program Files/Git/cmd/gcc-ar-13.com"
       - "C:/Program Files/Git/cmd/gcc-ar-13.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-13"
+      - "C:/Program Files/dotnet/gcc-ar-13.com"
+      - "C:/Program Files/dotnet/gcc-ar-13.exe"
+      - "C:/Program Files/dotnet/gcc-ar-13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar-13"
@@ -1620,9 +1620,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ar13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ar13"
@@ -1632,12 +1629,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ar13.com"
       - "C:/Program Files/Go/bin/gcc-ar13.exe"
       - "C:/Program Files/Go/bin/gcc-ar13"
-      - "C:/Program Files/dotnet/gcc-ar13.com"
-      - "C:/Program Files/dotnet/gcc-ar13.exe"
-      - "C:/Program Files/dotnet/gcc-ar13"
       - "C:/Program Files/Git/cmd/gcc-ar13.com"
       - "C:/Program Files/Git/cmd/gcc-ar13.exe"
       - "C:/Program Files/Git/cmd/gcc-ar13"
+      - "C:/Program Files/dotnet/gcc-ar13.com"
+      - "C:/Program Files/dotnet/gcc-ar13.exe"
+      - "C:/Program Files/dotnet/gcc-ar13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ar13"
@@ -1657,12 +1657,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -1697,12 +1697,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
     searched_directories:
@@ -1733,9 +1733,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.1.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.1"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.1.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.1"
@@ -1745,12 +1742,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ranlib-13.1.com"
       - "C:/Program Files/Go/bin/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Go/bin/gcc-ranlib-13.1"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.1.com"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.1.exe"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.1"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.1.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.1.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.1"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.1.com"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.1.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.1"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.1"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.1.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.1.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.1"
@@ -1784,9 +1784,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib-13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib-13"
@@ -1796,12 +1793,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ranlib-13.com"
       - "C:/Program Files/Go/bin/gcc-ranlib-13.exe"
       - "C:/Program Files/Go/bin/gcc-ranlib-13"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.com"
-      - "C:/Program Files/dotnet/gcc-ranlib-13.exe"
-      - "C:/Program Files/dotnet/gcc-ranlib-13"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-13"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.com"
+      - "C:/Program Files/dotnet/gcc-ranlib-13.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib-13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-13"
@@ -1835,9 +1835,6 @@ events:
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib13.com"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib13.exe"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/gcc-ranlib13"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib13.com"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib13.exe"
       - "C:/Program Files/Microsoft VS Code/bin/gcc-ranlib13"
@@ -1847,12 +1844,15 @@ events:
       - "C:/Program Files/Go/bin/gcc-ranlib13.com"
       - "C:/Program Files/Go/bin/gcc-ranlib13.exe"
       - "C:/Program Files/Go/bin/gcc-ranlib13"
-      - "C:/Program Files/dotnet/gcc-ranlib13.com"
-      - "C:/Program Files/dotnet/gcc-ranlib13.exe"
-      - "C:/Program Files/dotnet/gcc-ranlib13"
       - "C:/Program Files/Git/cmd/gcc-ranlib13.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib13.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib13"
+      - "C:/Program Files/dotnet/gcc-ranlib13.com"
+      - "C:/Program Files/dotnet/gcc-ranlib13.exe"
+      - "C:/Program Files/dotnet/gcc-ranlib13"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib13"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib13.com"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib13.exe"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/gcc-ranlib13"
@@ -1872,12 +1872,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
   -
@@ -1912,12 +1912,12 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
       - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/Microsoft SQL Server/170/DTS/Binn/"
       - "C:/Program Files/Go/bin/"
-      - "C:/Program Files/dotnet/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/s063337/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Program Files/JetBrains/CLion 2025.3.1/bin/ninja/win/x64/"
       - "C:/Program Files/bin/"
@@ -1946,12 +1946,12 @@ events:
         - "C:\\WINDOWS\\System32\\OpenSSH\\"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
         - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\Microsoft SQL Server\\170\\DTS\\Binn\\"
         - "C:\\Program Files\\Go\\bin"
-        - "C:\\Program Files\\dotnet\\"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Users\\s063337\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\ninja\\win\\x64"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Mokiniu_Pazymiu_Sistema"
@@ -1969,8 +1969,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf"
-      binary: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf"
+      source: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm"
+      binary: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1979,13 +1979,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf'
+        Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm'
         
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_3ad85/fast
-        C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3ad85.dir\\build.make CMakeFiles/cmTC_3ad85.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf'
-        Building C object CMakeFiles/cmTC_3ad85.dir/CMakeCCompilerABI.c.obj
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_f8155/fast
+        C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f8155.dir\\build.make CMakeFiles/cmTC_f8155.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm'
+        Building C object CMakeFiles/cmTC_f8155.dir/CMakeCCompilerABI.c.obj
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -1993,8 +1993,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3ad85.dir\\'
-         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_3ad85.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\ccNJThgW.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f8155.dir\\'
+         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_f8155.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\cc877vT2.s
         GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -2012,14 +2012,14 @@ events:
          /mingw/include
         End of search list.
         Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3ad85.dir\\'
-         as -v -o CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\ccNJThgW.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f8155.dir\\'
+         as -v -o CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\cc877vT2.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;/mingw/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../;/mingw/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_3ad85.exe
-        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3ad85.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_f8155.exe
+        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_f8155.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -2030,16 +2030,16 @@ events:
         gcc version 13.1.0 (GCC) 
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;/mingw/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../;/mingw/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3ad85.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3ad85.'
-         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_3ad85.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_3ad85.dir/objects.a --no-whole-archive --out-implib libcmTC_3ad85.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f8155.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f8155.'
+         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_f8155.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_f8155.dir/objects.a --no-whole-archive --out-implib libcmTC_f8155.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
         collect2 version 13.1.0
-        C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_3ad85.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_3ad85.dir/objects.a --no-whole-archive --out-implib libcmTC_3ad85.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_f8155.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_f8155.dir/objects.a --no-whole-archive --out-implib libcmTC_f8155.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
         GNU ld (GNU Binutils) 2.40
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3ad85.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3ad85.'
-        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_3ad85.dir/objects.a
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_3ad85.dir/objects.a @CMakeFiles\\cmTC_3ad85.dir\\objects1.rsp
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_3ad85.dir/objects.a -Wl,--no-whole-archive -o cmTC_3ad85.exe -Wl,--out-implib,libcmTC_3ad85.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f8155.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f8155.'
+        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_f8155.dir/objects.a
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_f8155.dir/objects.a @CMakeFiles\\cmTC_f8155.dir\\objects1.rsp
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_f8155.dir/objects.a -Wl,--no-whole-archive -o cmTC_f8155.exe -Wl,--out-implib,libcmTC_f8155.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm'
         
       exitCode: 0
   -
@@ -2076,13 +2076,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf']
+        ignore line: [Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_3ad85/fast]
-        ignore line: [C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3ad85.dir\\build.make CMakeFiles/cmTC_3ad85.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf']
-        ignore line: [Building C object CMakeFiles/cmTC_3ad85.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_f8155/fast]
+        ignore line: [C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_f8155.dir\\build.make CMakeFiles/cmTC_f8155.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm']
+        ignore line: [Building C object CMakeFiles/cmTC_f8155.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2090,8 +2090,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3ad85.dir\\']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_3ad85.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\ccNJThgW.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f8155.dir\\']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_f8155.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\cc877vT2.s]
         ignore line: [GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -2109,8 +2109,8 @@ events:
         ignore line: [ /mingw/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3ad85.dir\\']
-        ignore line: [ as -v -o CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\ccNJThgW.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f8155.dir\\']
+        ignore line: [ as -v -o CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\cc877vT2.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/]
@@ -2122,9 +2122,9 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
         ignore line: [/mingw/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3ad85.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_3ad85.exe]
-        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3ad85.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_f8155.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_f8155.exe]
+        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_f8155.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -2143,16 +2143,16 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
         ignore line: [/mingw/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3ad85.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3ad85.']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_3ad85.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_3ad85.dir/objects.a --no-whole-archive --out-implib libcmTC_3ad85.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f8155.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f8155.']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_f8155.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_f8155.dir/objects.a --no-whole-archive --out-implib libcmTC_f8155.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
         ignore line: [collect2 version 13.1.0]
-        ignore line: [C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_3ad85.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_3ad85.dir/objects.a --no-whole-archive --out-implib libcmTC_3ad85.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_f8155.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_f8155.dir/objects.a --no-whole-archive --out-implib libcmTC_f8155.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
         ignore line: [GNU ld (GNU Binutils) 2.40]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3ad85.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3ad85.']
-        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_3ad85.dir/objects.a]
-        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_3ad85.dir/objects.a @CMakeFiles\\cmTC_3ad85.dir\\objects1.rsp]
-        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_3ad85.dir/objects.a -Wl --no-whole-archive -o cmTC_3ad85.exe -Wl --out-implib libcmTC_3ad85.dll.a -Wl --major-image-version 0 --minor-image-version 0]
-        ignore line: [mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ls4blf']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f8155.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_f8155.']
+        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_f8155.dir/objects.a]
+        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_f8155.dir/objects.a @CMakeFiles\\cmTC_f8155.dir\\objects1.rsp]
+        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_f8155.dir/objects.a -Wl --no-whole-archive -o cmTC_f8155.exe -Wl --out-implib libcmTC_f8155.dll.a -Wl --major-image-version 0 --minor-image-version 0]
+        ignore line: [mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i1dthm']
         ignore line: []
         ignore line: []
         linker tool for 'C': C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/ld.exe
@@ -2181,8 +2181,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k"
-      binary: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k"
+      source: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym"
+      binary: "C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2192,13 +2192,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k'
+        Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym'
         
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_20480/fast
-        C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_20480.dir\\build.make CMakeFiles/cmTC_20480.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k'
-        Building CXX object CMakeFiles/cmTC_20480.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_814f1/fast
+        C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_814f1.dir\\build.make CMakeFiles/cmTC_814f1.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym'
+        Building CXX object CMakeFiles/cmTC_814f1.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE
         Target: x86_64-w64-mingw32
@@ -2206,8 +2206,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_20480.dir\\'
-         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_20480.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\ccY4VOvF.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_814f1.dir\\'
+         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_814f1.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\ccVqteFx.s
         GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -2231,14 +2231,14 @@ events:
          /mingw/include
         End of search list.
         Compiler executable checksum: e75de627edc3c57e31324b930b15b056
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_20480.dir\\'
-         as -v -o CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\ccY4VOvF.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_814f1.dir\\'
+         as -v -o CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\ccVqteFx.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;/mingw/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../;/mingw/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_20480.exe
-        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_20480.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_814f1.exe
+        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_814f1.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -2249,16 +2249,16 @@ events:
         gcc version 13.1.0 (GCC) 
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;/mingw/lib/../lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../;/mingw/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20480.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20480.'
-         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_20480.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_20480.dir/objects.a --no-whole-archive --out-implib libcmTC_20480.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_814f1.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_814f1.'
+         C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_814f1.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_814f1.dir/objects.a --no-whole-archive --out-implib libcmTC_814f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
         collect2 version 13.1.0
-        C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_20480.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_20480.dir/objects.a --no-whole-archive --out-implib libcmTC_20480.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_814f1.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_814f1.dir/objects.a --no-whole-archive --out-implib libcmTC_814f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
         GNU ld (GNU Binutils) 2.40
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20480.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20480.'
-        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_20480.dir/objects.a
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_20480.dir/objects.a @CMakeFiles\\cmTC_20480.dir\\objects1.rsp
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_20480.dir/objects.a -Wl,--no-whole-archive -o cmTC_20480.exe -Wl,--out-implib,libcmTC_20480.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_814f1.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_814f1.'
+        "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_814f1.dir/objects.a
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_814f1.dir/objects.a @CMakeFiles\\cmTC_814f1.dir\\objects1.rsp
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_814f1.dir/objects.a -Wl,--no-whole-archive -o cmTC_814f1.exe -Wl,--out-implib,libcmTC_814f1.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym'
         
       exitCode: 0
   -
@@ -2301,13 +2301,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k']
+        ignore line: [Change Dir: 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_20480/fast]
-        ignore line: [C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_20480.dir\\build.make CMakeFiles/cmTC_20480.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k']
-        ignore line: [Building CXX object CMakeFiles/cmTC_20480.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/JetBrains/CLion 2025.3.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f Makefile cmTC_814f1/fast]
+        ignore line: [C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_814f1.dir\\build.make CMakeFiles/cmTC_814f1.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym']
+        ignore line: [Building CXX object CMakeFiles/cmTC_814f1.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2315,8 +2315,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_20480.dir\\']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_20480.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\ccY4VOvF.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_814f1.dir\\']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_814f1.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\s063337\\AppData\\Local\\Temp\\ccVqteFx.s]
         ignore line: [GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -2340,8 +2340,8 @@ events:
         ignore line: [ /mingw/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: e75de627edc3c57e31324b930b15b056]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_20480.dir\\']
-        ignore line: [ as -v -o CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\ccY4VOvF.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_814f1.dir\\']
+        ignore line: [ as -v -o CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\s063337\\AppData\\Local\\Temp\\ccVqteFx.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/]
@@ -2353,9 +2353,9 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
         ignore line: [/mingw/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_20480.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_20480.exe]
-        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_20480.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_814f1.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_814f1.exe]
+        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_814f1.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -2374,16 +2374,16 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
         ignore line: [/mingw/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20480.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20480.']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_20480.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_20480.dir/objects.a --no-whole-archive --out-implib libcmTC_20480.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_814f1.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_814f1.']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_814f1.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_814f1.dir/objects.a --no-whole-archive --out-implib libcmTC_814f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
         ignore line: [collect2 version 13.1.0]
-        ignore line: [C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_20480.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_20480.dir/objects.a --no-whole-archive --out-implib libcmTC_20480.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\mingw\\bin/ld.exe -m i386pep -Bdynamic -o cmTC_814f1.exe C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -L/mingw/lib/../lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_814f1.dir/objects.a --no-whole-archive --out-implib libcmTC_814f1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
         ignore line: [GNU ld (GNU Binutils) 2.40]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20480.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20480.']
-        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_20480.dir/objects.a]
-        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_20480.dir/objects.a @CMakeFiles\\cmTC_20480.dir\\objects1.rsp]
-        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_20480.dir/objects.a -Wl --no-whole-archive -o cmTC_20480.exe -Wl --out-implib libcmTC_20480.dll.a -Wl --major-image-version 0 --minor-image-version 0]
-        ignore line: [mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b3z28k']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_814f1.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_814f1.']
+        ignore line: ["C:\\Program Files\\JetBrains\\CLion 2025.3.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_814f1.dir/objects.a]
+        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\ar.exe qc CMakeFiles\\cmTC_814f1.dir/objects.a @CMakeFiles\\cmTC_814f1.dir\\objects1.rsp]
+        ignore line: [C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_814f1.dir/objects.a -Wl --no-whole-archive -o cmTC_814f1.exe -Wl --out-implib libcmTC_814f1.dll.a -Wl --major-image-version 0 --minor-image-version 0]
+        ignore line: [mingw32-make[1]: Leaving directory 'C:/Users/s063337/Desktop/Mokiniu-Pazymiu-Sistema/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qp98ym']
         ignore line: []
         ignore line: []
         linker tool for 'CXX': C:/Program Files/JetBrains/CLion 2025.3.1/bin/mingw/bin/ld.exe
