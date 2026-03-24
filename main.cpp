@@ -7,7 +7,8 @@ int GRADES_LIMIT = 10;
 
 void printInitialServiceOptions() {
     cout << "Pasirinkite norima veiksma, ivesdami jo numeri:" << "\n";
-    cout << "Pridėti mokinį ir ivesti jo pazymius - 1" << "\n";
+    cout << "Pridėti mokinį - 1" << "\n";
+    cout << "Įvesti mokinio pažymius - 2" << "\n";
     cout << "Perziureti visu mokiniu arba konkretaus mokinio pazymius - 2" << "\n";
     cout << "Atnaujinti mokinio pazymi - 3" << "\n";
     cout << "Pasalinti mokini is saraso - 4" << "\n";
@@ -21,31 +22,34 @@ string getStudentNameInput() {
     return studentName;
 }
 
-void addStudent(string studentName, string studentNames[]) {
-    int studentNameIndex;
-
-
+int getStudentNameIndexUsingStudentName(const string& studentName,string studentNames[]) {
     for (int i = 0; i < STUDENTS_LIMIT; i++) {
+        if (studentName==studentNames[i]) {
+            return i;
+        }
+    }
+    return -1;
+}
+
+void addStudent(const string &studentName, string studentNames[]) {
+    for (int i = 0; i < STUDENTS_LIMIT; i++) {
+        if (studentName==studentNames[i]) {
+            cout << "Mokinys su siuo vardu jau egzistuoja"<<"\n";
+        }
+
         if (studentNames[i].empty()) {
             studentNames[i] = studentName;
-            studentNameIndex = i;
             break;
-        } else if (i + 1 == STUDENTS_LIMIT && !studentNames[i].empty()) {
+        }
+
+        if (i + 1 == STUDENTS_LIMIT && !studentNames[i].empty()) {
             cout << "Mokiniu sarasas pilnas, pries naudodami sia funkcija, pasalinkite betkuri mokini is saraso" << "\n";
         }
     }
 }
 
-int getStudentNameIndex(string studentName,string studentNames[]) {
-    for (int i = 0; i < STUDENTS_LIMIT; i++) {
-        if (studentName==studentNames[i]) {
-            return i;
-        }
-        }
-}
-
-void getStudentGradeInput(int studentNameIndex, string studentName) {
-    string studentGrades[];
+ void getStudentGradeInput(string studentName, int studentNameIndex) {
+    int studentGrades[GRADES_LIMIT];
     cout << "Iveskite" << studentName << "Pazymius" << "\n";
 
     for (int i = 0; i < GRADES_LIMIT; i++) {
@@ -66,44 +70,46 @@ int main() {
         switch (userInput) {
             case 1: {
                 string studentName=getStudentNameInput();
-                int studentNameIndex=getStudentNameIndex(studentName,studentNames);
-                int studentGrades[GRADES_LIMIT]=getStudentGradeInput(studentNameIndex,studentName,s);
-                addStudent();
-
+                addStudent(studentName,studentNames);
                 break;
             }
-            case 2:
-                cout << "Visu mokiniu pazymius - 0";
-                cout << "Konkretaus mokinio pazymius - 1";
-                int userInput;
-                cin >> userInput;
-                switch (userInput) {
-                    case 1: {
-                        {
-                            for (int i = 0; i < STUDENTS_LIMIT; i++) {
-                                cout << setw(15) << "Vardai: " << setw(15) << "Pazymiai: ";
-                                for (int j = 0; j < GRADES_LIMIT; j++) {
-                                    cout << studentGrades[i][j] << " ";
-                                }
-                            }
-                        }
-                    }
-                        case 2: {
-                        string studentNameInput;
-                        printInputStudentName();
-                        cin >> studentNameInput;
+                case 2: {
+                string studentName=getStudentNameInput();
+                int studentNameIndex=getStudentNameIndexUsingStudentName(studentName,studentNames);
+                int studentGrades[GRADES_LIMIT]=getStudentGradeInput(studentName,studentNameIndex);
+            cout << "Visu mokiniu pazymius - 0";
+            cout << "Konkretaus mokinio pazymius - 1";
+            int userInput;
+            cin >> userInput;
+            switch (userInput) {
+                case 1: {
+                    {
                         for (int i = 0; i < STUDENTS_LIMIT; i++) {
-                            if (studentNames[i] == studentNameInput ) {
-                                cout << setw(15) << "Vardas: " << setw(15) << "Pazymiai: ";
-                                for (int j = 0; j < GRADES_LIMIT; j++) {
-                                    cout << studentGrades[i][j] << " ";
-                                }
+                            cout << setw(15) << "Vardai: " << setw(15) << "Pazymiai: ";
+                            for (int j = 0; j < GRADES_LIMIT; j++) {
+                                cout << studentGrades[i][j] << " ";
                             }
                         }
                     }
-                        break;
                 }
+            }
                 case 3: {
+                    string studentNameInput;
+                    printInputStudentName();
+                    cin >> studentNameInput;
+                    for (int i = 0; i < STUDENTS_LIMIT; i++) {
+                        if (studentNames[i] == studentNameInput ) {
+                            cout << setw(15) << "Vardas: " << setw(15) << "Pazymiai: ";
+                            for (int j = 0; j < GRADES_LIMIT; j++) {
+                                cout << studentGrades[i][j] << " ";
+                            }
+                        }
+                    }
+                }
+                    break;
+                }
+            case 4: {
+                {
                     string studentNameInput;
                     printInputStudentName();
                     cin >> studentNameInput;
@@ -123,6 +129,8 @@ int main() {
                     cin >> gradeIndexInput;
                     cout << "P";
                 }
+                break;
+            }
             default:
                 programIsRunning = false;
                 break;
