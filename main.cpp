@@ -144,6 +144,28 @@ void showGradesOfIndividualStudent(string studentName, string (&studentNames)[ST
     displayGrades(studentName, studentGrades[studentNameIndex]);
 }
 
+void changeStudentGrade(string studentName, string (&studentNames)[STUDENTS_LIMIT], int (&studentGrades)[STUDENTS_LIMIT][GRADES_LIMIT])
+{
+    int studentIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
+    int gradeIndexInput;
+    int newGradeInput;
+
+    displayGrades(studentName, studentGrades[studentIndex]);
+
+    cout << "\nIrasykite indeksa pazymio kuri norite pakeisti: ";
+    cin >> gradeIndexInput;
+    int oldGrade = studentGrades[studentIndex][gradeIndexInput + 1];
+    cout << "\n\n";
+
+    cout << "Irasykite nauja pazymi: ";
+    cin >> newGradeInput;
+
+    studentGrades[studentIndex][gradeIndexInput] = newGradeInput;
+    cout << "\n\n";
+
+    cout << "Pazymys " << oldGrade << " pakeistas i " << newGradeInput << "\n";
+}
+
 int main()
 {
     string studentNames[STUDENTS_LIMIT];
@@ -184,51 +206,12 @@ int main()
 
             break;
         }
-            // case 3:
-            // {
-            //     string studentNameInput;
-            //     printInputStudentName();
-            //     cin >> studentNameInput;
-            //     for (int i = 0; i < STUDENTS_LIMIT; i++)
-            //     {
-            //         if (studentNames[i] == studentNameInput)
-            //         {
-            //             cout << setw(15) << "Vardas: " << setw(15) << "Pazymiai: ";
-            //             for (int j = 0; j < GRADES_LIMIT; j++)
-            //             {
-            //                 cout << studentGrades[i][j] << " ";
-            //             }
-            //         }
-            //     }
-            // }
-            // break;
-            // }
-            // case 4:
-            // {
-            //     {
-            //         string studentNameInput;
-            //         printInputStudentName();
-            //         cin >> studentNameInput;
-            //         for (int i = 0; i < STUDENTS_LIMIT; i++)
-            //         {
-            //             if (studentNames[i] == studentNameInput)
-            //             {
-            //                 string studentName = studentNames[i];
-            //                 cout << setw(15) << "Vardas: " << setw(15) << "Pazymiai: " << endl;
-            //                 cout << setw(15) << studentName << setw(15);
-            //                 for (int j = 0; j < GRADES_LIMIT; j++)
-            //                 {
-            //                     cout << studentGrades[i][j] << " ";
-            //                 }
-            //                 cout << "\n";
-            //             }
-            //         }
-            //         int gradeIndexInput;
-            //         cout << "Iveskite eiles numeri pazymio kuri norite pakeisti:" << "\n";
-            //         cin >> gradeIndexInput;
-            //         cout << "P";
-            //     }
-            //     break;
+        case 3:
+        {
+            string studentName = getStudentNameInput();
+            changeStudentGrade(studentName, studentNames, studentGrades);
+            break;
+        }
         default:
             programIsRunning = false;
             break;
