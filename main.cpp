@@ -166,10 +166,40 @@ void changeStudentGrade(string studentName, string (&studentNames)[STUDENTS_LIMI
     cout << "Pazymys " << oldGrade << " pakeistas i " << newGradeInput << "\n";
 }
 
+void deleteStudent(string studentName, string (&studentNames)[STUDENTS_LIMIT], int (&studentGrades)[STUDENTS_LIMIT][GRADES_LIMIT], int studentCount)
+{
+    int studentIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
+
+    if (studentIndex == -1)
+    {
+        cout << "\nStudentas nerastas";
+        return;
+    }
+
+    for (int i = studentIndex; i < studentCount - 1; i++)
+    {
+        studentNames[i] = studentNames[i + 1];
+
+        for (int j = 0; j < GRADES_LIMIT; j++)
+        {
+            studentGrades[i][j] = studentGrades[i + 1][j];
+        }
+    }
+
+    studentNames[studentCount - 1] = "";
+    for (int i = 0; i < GRADES_LIMIT; i++)
+    {
+        studentGrades[studentCount - 1][i] = -1;
+    }
+
+    cout << "\nStudentas " << studentName << " istrintas\n";
+}
+
 int main()
 {
     string studentNames[STUDENTS_LIMIT];
     int studentGrades[STUDENTS_LIMIT][GRADES_LIMIT];
+    int studentCount = 0;
 
     bool programIsRunning = true;
     while (programIsRunning)
@@ -183,6 +213,7 @@ int main()
             addStudent(studentName, studentNames);
             array<int, GRADES_LIMIT> studentGradeInputs = getStudentGradeInput(studentName);
             addStudentGrades(studentName, studentNames, studentGrades, studentGradeInputs);
+            studentCount++;
             break;
         }
         case 2:
@@ -210,6 +241,13 @@ int main()
         {
             string studentName = getStudentNameInput();
             changeStudentGrade(studentName, studentNames, studentGrades);
+            break;
+        }
+        case 4:
+        {
+            string studentName = getStudentNameInput();
+            deleteStudent(studentName, studentNames, studentGrades, studentCount);
+            studentCount--;
             break;
         }
         default:
