@@ -6,7 +6,7 @@ using namespace std;
 const int STUDENTS_LIMIT = 100;
 const int GRADES_LIMIT = 10;
 
-int getStudentNameIndexUsingStudentName(const string studentName, string studentNames[])
+int getStudentNameIndexUsingStudentName(const string studentName, string (&studentNames)[STUDENTS_LIMIT])
 {
     for (int i = 0; i < STUDENTS_LIMIT; i++)
     {
@@ -22,35 +22,47 @@ int getInitialServiceOptionInput()
 {
     int userInput;
 
-    cout << "Pasirinkite norima veiksma, ivesdami numeri:\n";
-    cout << "Prideti mokini - 1\n";
-    cout << "Ivesti mokinio pazymius - 2\n";
+    cout << "\nPasirinkite norima paslauga, ivesdami numeri:\n";
+    cout << "Prideti mokini ir mokinio pazymius - 1\n";
     cout << "Perziureti visu mokiniu arba konkretaus mokinio pazymius - 2\n";
     cout << "Atnaujinti mokinio pazymi - 3\n";
     cout << "Pasalinti mokini is saraso - 4\n";
-    cout << "Iseiti - 0\n";
+    cout << "Iseiti - 0\n\n";
 
     cin >> userInput;
 
     return userInput;
 };
 
+int getDisplayStudentGradesServiceInput()
+{
+    int userInput;
+
+    cout << "\nPasirinkite norima paslauga, ivesdami numeri:\n";
+    cout << "Perziureti visu mokiniu pazymius - 1\n";
+    cout << "Perziureti konkretaus mokinio pazymius - 2\n";
+    cout << "Grizti - 0\n\n";
+    cin >> userInput;
+
+    return userInput;
+}
+
 string getStudentNameInput()
 {
     string studentName;
-    cout << "Iveskite mokinio vardą: ";
+    cout << "\nIveskite mokinio vardą: ";
     cin >> studentName;
     cout << "\n";
     return studentName;
 }
 
-void addStudent(const string studentName, string studentNames[])
+void addStudent(const string studentName, string (&studentNames)[STUDENTS_LIMIT])
 {
     for (int i = 0; i < STUDENTS_LIMIT; i++)
     {
         if (studentName == studentNames[i])
         {
-            cout << "Mokinys su siuo vardu jau egzistuoja" << "\n";
+            cout << "\nMokinys su siuo vardu jau egzistuoja\n";
             break;
         }
 
@@ -62,18 +74,19 @@ void addStudent(const string studentName, string studentNames[])
 
         if (i + 1 == STUDENTS_LIMIT && !studentNames[i].empty())
         {
-            cout << "Mokiniu sarasas pilnas, pries naudodami sia funkcija, pasalinkite betkuri mokini is saraso" << "\n";
+            cout << "\nMokiniu sarasas pilnas, pries naudodami sia funkcija, pasalinkite betkuri mokini is saraso\n";
             break;
         }
     }
 }
 
-void addStudentGrades(string studentName, string studentNames[], int studentGrades[][GRADES_LIMIT], array<int, GRADES_LIMIT> studentGradeInputs)
+void addStudentGrades(string studentName, string (&studentNames)[STUDENTS_LIMIT], int (&studentGrades)[STUDENTS_LIMIT][GRADES_LIMIT], array<int, GRADES_LIMIT> &studentGradeInputs)
 {
     int studentNameIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
 
     for (int i = 0; i < GRADES_LIMIT; i++)
     {
+        studentGrades[studentNameIndex][i] = studentGradeInputs[i];
         cout << studentGradeInputs[i];
     }
 
@@ -83,13 +96,13 @@ void addStudentGrades(string studentName, string studentNames[], int studentGrad
 array<int, GRADES_LIMIT> getStudentGradeInput(string studentName)
 {
     array<int, GRADES_LIMIT> studentGrades;
-    cout << "Iveskite " << studentName << " Pazymius" << "\n";
+    cout << "\nIveskite " << studentName << " Pazymius\n";
 
     for (int i = 0; i < GRADES_LIMIT; i++)
     {
         int studentGrade;
 
-        cout << "Pazymys " << (i + 1) << ": ";
+        cout << "\nPazymys " << (i + 1) << ": ";
         cin >> studentGrade;
         studentGrades[i] = studentGrade;
     }
@@ -97,21 +110,53 @@ array<int, GRADES_LIMIT> getStudentGradeInput(string studentName)
     return studentGrades;
 }
 
+void displayGrades(string studentName, int studentGrades[])
+{
+    cout << "\n"
+         << studentName << " Pazymiai: ";
+
+    for (int i = 0; i < GRADES_LIMIT; i++)
+    {
+        cout << "\n"
+             << i + 1 << ". " << studentGrades[i];
+    }
+
+    cout << "\n";
+    cout << "----------------\n";
+}
+
+void showGradesOfAllStudents(string (&studentNames)[STUDENTS_LIMIT], int (&studentGrades)[STUDENTS_LIMIT][GRADES_LIMIT])
+{
+    for (int i = 0; i < STUDENTS_LIMIT; i++)
+    {
+        if (studentNames[i].empty())
+            break;
+
+        displayGrades(studentNames[i], studentGrades[i]);
+    }
+}
+
+void showGradesOfIndividualStudent(string studentName, string (&studentNames)[STUDENTS_LIMIT], int studentGrades[STUDENTS_LIMIT][GRADES_LIMIT])
+{
+
+    int studentNameIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
+
+    displayGrades(studentName, studentGrades[studentNameIndex]);
+}
+
 int main()
 {
+    string studentNames[STUDENTS_LIMIT];
+    int studentGrades[STUDENTS_LIMIT][GRADES_LIMIT];
+
     bool programIsRunning = true;
     while (programIsRunning)
     {
-        string studentNames[STUDENTS_LIMIT];
-        int studentGrades[STUDENTS_LIMIT][GRADES_LIMIT];
-
         int serviceIndexInput = getInitialServiceOptionInput();
         switch (serviceIndexInput)
         {
         case 1:
         {
-            cin.get();
-            cout << endl;
             string studentName = getStudentNameInput();
             addStudent(studentName, studentNames);
             array<int, GRADES_LIMIT> studentGradeInputs = getStudentGradeInput(studentName);
@@ -120,9 +165,24 @@ int main()
         }
         case 2:
         {
-            // string studentName = getStudentNameInput();
-            // int studentNameIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
-            // getStudentGradeInput(studentName, studentNameIndex, studentGrades);
+            int serviceChoiceInput = getDisplayStudentGradesServiceInput();
+            switch (serviceChoiceInput)
+            {
+            case 1:
+            {
+                showGradesOfAllStudents(studentNames, studentGrades);
+                break;
+            }
+            case 2:
+            {
+                string studentName = getStudentNameInput();
+                showGradesOfIndividualStudent(studentName, studentNames, studentGrades);
+            }
+            default:
+                break;
+            }
+
+            break;
         }
             // case 3:
             // {
