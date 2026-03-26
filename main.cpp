@@ -50,7 +50,7 @@ int getDisplayStudentGradesServiceInput()
 string getStudentNameInput()
 {
     string studentName;
-    cout << "\nIveskite mokinio vardą: ";
+    cout << "\nIveskite mokinio varda: ";
     cin >> studentName;
     cout << "\n";
     return studentName;
