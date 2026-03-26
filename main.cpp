@@ -56,14 +56,23 @@ string getStudentNameInput()
     return studentName;
 }
 
-void addStudent(const string studentName, string (&studentNames)[STUDENTS_LIMIT])
+int getStudentGradeCount()
+{
+    int gradeCount;
+    cout << "\nKiek pazymiu norite ivesti?: ";
+    cin >> gradeCount;
+    cout << "\n";
+    return gradeCount;
+}
+
+int addStudent(const string studentName, string (&studentNames)[STUDENTS_LIMIT])
 {
     for (int i = 0; i < STUDENTS_LIMIT; i++)
     {
         if (studentName == studentNames[i])
         {
             cout << "\nMokinys su siuo vardu jau egzistuoja\n";
-            break;
+            return 0;
         }
 
         if (studentNames[i].empty())
@@ -75,18 +84,19 @@ void addStudent(const string studentName, string (&studentNames)[STUDENTS_LIMIT]
         if (i + 1 == STUDENTS_LIMIT && !studentNames[i].empty())
         {
             cout << "\nMokiniu sarasas pilnas, pries naudodami sia funkcija, pasalinkite betkuri mokini is saraso\n";
-            break;
+            return 0;
         }
     }
+    return 1;
 }
 
-void addStudentGrades(string studentName, string (&studentNames)[STUDENTS_LIMIT], int (&studentGrades)[STUDENTS_LIMIT][GRADES_LIMIT], array<int, GRADES_LIMIT> &studentGradeInputs)
+void addStudentGrades(string studentName, string (&studentNames)[STUDENTS_LIMIT], int (&studentGrades)[STUDENTS_LIMIT][GRADES_LIMIT], array<int, GRADES_LIMIT> &studentGradeInputs, int studentGradeCount)
 {
     int studentNameIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
 
     cout << "\n"
          << studentName << " pazymiai: \n";
-    for (int i = 0; i < GRADES_LIMIT; i++)
+    for (int i = 0; i < studentGradeCount; i++)
     {
         studentGrades[studentNameIndex][i] = studentGradeInputs[i];
         cout << i + 1 << ". " << studentGradeInputs[i] << "\n";
@@ -95,12 +105,12 @@ void addStudentGrades(string studentName, string (&studentNames)[STUDENTS_LIMIT]
     cout << "----------------\n";
 }
 
-array<int, GRADES_LIMIT> getStudentGradeInput(string studentName)
+array<int, GRADES_LIMIT> getStudentGradeInput(string studentName, int studentGradeCount)
 {
     array<int, GRADES_LIMIT> studentGrades;
     cout << "\nIveskite " << studentName << " pazymius\n";
 
-    for (int i = 0; i < GRADES_LIMIT; i++)
+    for (int i = 0; i < studentGradeCount; i++)
     {
         int studentGrade;
 
@@ -126,6 +136,9 @@ void displayGrades(string studentName, int studentGrades[])
 
     for (int i = 0; i < GRADES_LIMIT; i++)
     {
+        if (studentGrades[i] < 1 || studentGrades[i] > 10)
+            break;
+
         cout << "\n"
              << i + 1 << ". " << studentGrades[i];
     }
@@ -163,7 +176,7 @@ void changeStudentGrade(string studentName, string (&studentNames)[STUDENTS_LIMI
 
     cout << "\nIrasykite indeksa pazymio kuri norite pakeisti: ";
     cin >> gradeIndexInput;
-    int oldGrade = studentGrades[studentIndex][gradeIndexInput + 1];
+    int oldGrade = studentGrades[studentIndex][gradeIndexInput - 1];
     cout << "\n\n";
 
     cout << "Irasykite nauja pazymi: ";
@@ -175,7 +188,7 @@ void changeStudentGrade(string studentName, string (&studentNames)[STUDENTS_LIMI
         cin >> newGradeInput;
     }
 
-    studentGrades[studentIndex][gradeIndexInput] = newGradeInput;
+    studentGrades[studentIndex][gradeIndexInput - 1] = newGradeInput;
     cout << "\n\n";
 
     cout << "Pazymys " << oldGrade << " pakeistas i " << newGradeInput << "\n";
@@ -225,9 +238,12 @@ int main()
         case 1:
         {
             string studentName = getStudentNameInput();
-            addStudent(studentName, studentNames);
-            array<int, GRADES_LIMIT> studentGradeInputs = getStudentGradeInput(studentName);
-            addStudentGrades(studentName, studentNames, studentGrades, studentGradeInputs);
+            int isAddingSuccesful = addStudent(studentName, studentNames);
+            if (isAddingSuccesful == 0)
+                break;
+            int studentGradeCount = getStudentGradeCount();
+            array<int, GRADES_LIMIT> studentGradeInputs = getStudentGradeInput(studentName, studentGradeCount);
+            addStudentGrades(studentName, studentNames, studentGrades, studentGradeInputs, studentGradeCount);
             studentCount++;
             break;
         }
