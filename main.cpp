@@ -84,19 +84,21 @@ void addStudentGrades(string studentName, string (&studentNames)[STUDENTS_LIMIT]
 {
     int studentNameIndex = getStudentNameIndexUsingStudentName(studentName, studentNames);
 
+    cout << "\n"
+         << studentName << " pazymiai: \n";
     for (int i = 0; i < GRADES_LIMIT; i++)
     {
         studentGrades[studentNameIndex][i] = studentGradeInputs[i];
-        cout << studentGradeInputs[i];
+        cout << i + 1 << ". " << studentGradeInputs[i] << "\n";
     }
 
-    cout << "\n";
+    cout << "----------------\n";
 }
 
 array<int, GRADES_LIMIT> getStudentGradeInput(string studentName)
 {
     array<int, GRADES_LIMIT> studentGrades;
-    cout << "\nIveskite " << studentName << " Pazymius\n";
+    cout << "\nIveskite " << studentName << " pazymius\n";
 
     for (int i = 0; i < GRADES_LIMIT; i++)
     {
@@ -104,6 +106,13 @@ array<int, GRADES_LIMIT> getStudentGradeInput(string studentName)
 
         cout << "\nPazymys " << (i + 1) << ": ";
         cin >> studentGrade;
+        while (studentGrade < 1 || studentGrade > 10)
+        {
+            cout << "\nNeteisinga ivestis leistinu pazymiu rezis 1-10\n";
+            cout << "\nPazymys " << (i + 1) << ": ";
+            cin >> studentGrade;
+        }
+
         studentGrades[i] = studentGrade;
     }
 
@@ -159,6 +168,12 @@ void changeStudentGrade(string studentName, string (&studentNames)[STUDENTS_LIMI
 
     cout << "Irasykite nauja pazymi: ";
     cin >> newGradeInput;
+    while (newGradeInput < 1 || newGradeInput > 10)
+    {
+        cout << "\nNeteisinga ivestis leistinu pazymiu rezis 1-10\n";
+        cout << "\nIrasykite nauja pazymi: ";
+        cin >> newGradeInput;
+    }
 
     studentGrades[studentIndex][gradeIndexInput] = newGradeInput;
     cout << "\n\n";
